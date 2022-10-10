@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nanditha Prabhu
+- 👋 Hi! I’m Nanditha Prabhu
 - 🌱 I’m currently a student at Ramaiah Institute of Technology
 - 👀 I’m pursuing B E in Artificial Intelligence and Data Science
 - 📫 How to reach me: nanditha7prabhu@gmail.com
