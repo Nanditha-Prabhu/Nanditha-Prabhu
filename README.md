@@ -1,6 +1,7 @@
 - 👋 Hi! I’m Nanditha Prabhu
 - 🌱 I’m currently a student at Ramaiah Institute of Technology, Bangalore.
-- 👀 I’m pursuing B E in Artificial Intelligence and Data Science
+- 👀 I’m pursuing B. E. in Artificial Intelligence and Data Science
+- ✨ My major interest lies in Front-End Web development and actively learning web development, machine learning, data structures and algorithms
 - 📫 How to reach me: nanditha7prabhu@gmail.com
 
 <!---
